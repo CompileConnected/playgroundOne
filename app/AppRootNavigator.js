@@ -12,7 +12,7 @@ import { BookCase } from './screens/BookCase';
 
 let screen = Dimensions.get('window');
 
-let tabsIconSize = 24;
+let tabsIconSize = 22;
 
 export const Tabs = createBottomTabNavigator({
     'Book': {
